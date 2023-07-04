@@ -1,2 +1,2 @@
-# langchain-autoGPT
- A YouTube script generator using Langchain
+# Langchain-AutoGPT
+ A youtube script generation experimant using langchain framework
